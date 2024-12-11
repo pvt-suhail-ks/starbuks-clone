@@ -1,0 +1,346 @@
+@import url(https://db.onlinewebfonts.com/c/d7e8a95865396cddca89b00080d2cba6?family=SoDo+Sans+SemiBold);
+*{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.header{
+
+    margin-left: 15%;
+    margin-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.img-header{
+    width: 40px;
+    height: 40px;
+}
+.header-table{
+    border-spacing: 10px;
+    margin-left: 5%;
+    margin-top: -9%;
+    
+}
+a{
+    text-decoration: none;
+    color: rgb(44, 44, 44);
+}
+a:hover{
+    color: #00754a;
+    
+}
+.header-searchbar{
+    margin-left: 300px;
+    border-radius: 15px;
+    border-color: transparent;
+    box-shadow: 0 0 2px #00000012, 0 2px 2px #0000000f, 0 1px 3px #0000001a;
+    width: 300px;
+    height: 30px;
+}
+.second-header{
+    background-color:#1e3932 ;
+    width: 100%;
+    height: 70px;
+    margin-top: 70px;
+}
+.btn-sec-header{
+    background-color: transparent;
+    color: white;
+    border-radius: 12px;
+    border: 1px solid white ;
+    width: 90px;
+    height: 30px;
+    margin-left: 80%;
+    margin-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.banner-bg{
+    margin-left: 20%;
+    margin-top: 90px;
+    border-radius: 20px;
+    
+}
+.banner-top{
+    margin-top: -40px;
+}
+.inside-img{
+    width: 100px;
+    height: 200px;
+    margin-left: -1128px;
+    margin-bottom: 38px;
+}
+.banner-inside-text{
+    margin-left: 550px;
+    margin-top: -190px;
+    color: white;
+}
+.banner-inside-text1{
+    margin-left: 550px;
+    margin-top: 20px;
+    color: white;
+}
+.banner-inside-text2{
+    margin-left: 550px;
+    margin-top: 20px;
+    color: white;
+}
+.banner-inside-text3{
+    margin-left: 1480px;
+    margin-top: -150px;
+    color: white;
+}
+.banner-inside-button{
+    border-radius: 20px;
+    background-color: white;
+    border-color: transparent;
+    margin-left: 68%;
+    margin-top: 150px;
+    width: 150px;
+    height: 35px;
+    font-size: 12px;
+    font-family: "SoDo Sans SemiBold";
+}
+.main-body-sec{
+    margin-left: 392px;
+    margin-top: 100px;
+}
+.Handcrafted-imgs{
+    width: 110px;
+    height: 110px;
+    border-radius: 80px;
+    margin-right: 101px;
+    margin-top: 48px;
+    margin-left: -12px;
+}
+.Handcrafted-text1{
+    margin-top: -15px;
+    margin-left: 228px;
+}
+.Handcrafted-text2{
+    margin-top: -18px;
+    margin-left: 435px;
+}
+
+.Handcrafted-text3{
+    margin-top: -20px;
+    margin-left: 615px;
+}
+
+.Handcrafted-text4{
+    margin-top: -20px;
+    margin-left: 805px;
+}
+
+.Handcrafted-text5{
+    margin-top: -20px;
+    margin-left: 1020px;
+}
+.Handcrafted-text6{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.fourth-sec{
+    margin-top: 50px;
+    width: 100%;
+    height: 258px;
+    background-color: #edebe9;
+}
+
+.fourth-header-name{
+    margin-left: 380px;
+    padding: 20px;
+    color: #1e3932;
+}
+.fourth-sec-inside-box1{
+    background-color: white;
+    width: 371px;
+    height: 150px;
+    margin-left: 367px;
+    margin-top: 5px;
+    border-radius: 15px;
+    box-shadow: 0 0 2px #00000012, 0 2px 2px #0000000f, 0 1px 3px #0000001a;
+}
+.fourth-sec-inside-box2{
+    background-color: white;
+    width: 371px;
+    height: 150px;
+    margin-left: 783px;
+    margin-top: -150px;
+    border-radius: 15px;
+    box-shadow: 0 0 2px #00000012, 0 2px 2px #0000000f, 0 1px 3px #0000001a;
+}
+.fourth-sec-inside-box3{
+    background-color: white;
+    width: 371px;
+    height: 150px;
+    margin-left: 1207px;
+    margin-top: -150px;
+    border-radius: 15px;
+    box-shadow: 0 0 2px #00000012, 0 2px 2px #0000000f, 0 1px 3px #0000001a;
+}
+.btn-inside-frth{
+    background-color: #00754a;
+    border-radius: 20px;
+    border: transparent;
+    box-shadow: 0 0 2px #00000012, 0 2px 2px #0000000f, 0 1px 3px #0000001a;
+    width: 90px;
+    height: 30px;
+    margin-left: 260px;
+    margin-top: 6px;
+    color: white;
+    font-family: "SoDo Sans SemiBold";
+}
+.price-frth{
+    margin-top: -21px;
+    padding-left: 15px;
+}
+.item-name{
+    margin-top: -105px;
+    padding-left: 118px;
+}
+.veg-imgs{
+    margin-top: 5px;
+}
+.small-imgs{
+    width: 80px;
+    height: 80px;
+    border-radius: 8px;
+    margin-top: 15px;
+    margin-left: 12px;   
+}
+.discovery-sec{
+    width: 100%;
+    height: 474px;
+    margin-top: 55px;
+    background-color: #edebe9;
+    
+}
+.discovery-sec h2{
+    margin-left: 380px;
+    padding-top: 20px;
+}
+.discovery-sec h6{
+    margin-top: -20px;
+    margin-left: 1490px;
+    letter-spacing: 2px;
+}
+.discovery-sec h6:hover{
+    color: #00754a;
+}
+.card-img{
+    height: 372px;
+    margin-top: 26px;
+    margin-left: 401px;
+    width: 1179px;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+.card-text{
+    margin-top: -210px;
+    color: white;
+    padding-left: 45px;
+    
+}
+.card-text2{
+    color: white;
+    margin-top: 16px;
+    margin-left: 430px;
+    font-family: sans-serif;
+}
+.btn-img-insider{
+    margin-left: 428px;
+    margin-top: 52px;
+    width: 206px;
+    height: 30px;
+    background-color: white;
+    border: transparent;
+    border-radius: 20px;
+    font-size: 12px;
+    font-family: "SoDo Sans SemiBold";
+}
+.footer{
+    background-color: #0e382c;
+    width: 100%;
+    height: 750px;
+    margin-top: 33px;
+}
+.footer-img{
+    margin-left: 392px;
+    padding-top: 125px;
+}
+.about-us{
+    color: white;
+    margin-left: 600px;
+    margin-top: -57px;
+}
+.responsibility{
+    margin-left: 800px;
+    margin-top: -170px;
+    color: white;
+}
+.quick-links{
+    margin-left: 1059px;
+    margin-top: -230px;
+    color: white;
+}
+.social-media{
+    margin-left: 1429px;
+    margin-top: -480px;
+    color: white;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    padding-top: 20px;
+}
+.about-us-ul{
+    margin-left: -40px;
+    margin-top: 20px;
+}
+.resp-ul{
+    margin-left: -38px;
+}
+.quick-li{
+    margin-left: -39px;
+}
+.social-imgs{
+    margin-top: 10px;
+}
+.app-imgs{
+    margin-top: 23px;
+}
+.copy-right {
+
+    padding: 20px 0;
+    margin-top: 263px;
+}
+
+.copy-right .divider {
+    border-top: 1px solid #ccc; /* Light grey line */
+    margin: 0 auto 20px;
+    width: 90%; /* Line width */
+}
+
+.copy-right .links {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.copy-right .links a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px; /* Space between links */
+    font-size: 0.9rem;
+}
+.copy-right .links a:hover {
+    text-decoration: underline; /* Hover effect for links */
+}
+
+.copy-right .copyright {
+    text-align: center;
+    font-size: 0.8rem;
+    color: #ccc; /* Slightly dimmer text color */
+}
+.li-a{
+    color: white;
+}
